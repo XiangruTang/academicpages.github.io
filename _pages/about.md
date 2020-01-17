@@ -12,7 +12,7 @@ redirect_from:
 
 ## Research Interest
 
-Previously, I was working on dialogue generation, question answering and model interpretability. For now, my research aims at grounded language learning, especially how networks tackle cognitive tasks, such as reasoning, planning, imagination and how that can help a learner figure out high-level representations on both the perception and action sides.
+Previously, I was working on dialogue generation, question answering and interpretability. For now, my research aims at grounded language learning, especially how networks tackle cognitive tasks, such as reasoning, planning, imagination and how that can help a learner figure out high-level representations on both the perception and action sides.
 
 ## Academic Experience
 
