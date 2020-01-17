@@ -8,5 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<font color="#dd0000">I am continually applying for internship or Ph.D position.</font><br /> 
 
+## Research Interest
+
+Previously, I was working on dialogue generation, question answering and model interpretability. For now, my research aims at grounded language learning, especially how networks tackle cognitive tasks, such as reasoning, planning, imagination and how that can help a learner figure out high-level representations on both the perception and action sides.
+
+## Academic Experience
+
+* UC Berkeley, Exchange and Visiting Student in Department of EECS and Berkeley AI Research Lab(BAIR), Berkeley, CA, USA. July 2019 - Mar. 2020
+* Institute of Computing Technology, Chinese Academy of Science, Guest student in CAS Key Lab of Network Data Science and Technology, Advisor: Prof. Yanyan Lan, Beijing, China. Nov. 2018 - July 2019
+* Peking University, Research Assistant in Institute of Computer Science and Technology, Advisor: Prof. Rui Yan, Beijing, China. June 2018 - Oct. 2018
+* Hubei Provincial Key Laboratory of Artificial Intelligence and Smart Learning, Research Assistant, Advisor: Prof. Guangyou Zhou and Tingting He, Wuhan, China. Sep. 2017 - June. 2018
+* Huazhong University of Science and Technology, Member of AI Lab of Qiming College and Unique Studio, Wuhan, China. June 2017 - June 2018
