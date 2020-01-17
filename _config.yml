@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "XiangruTang"
 title_separator          : "-"
 name                     : &name "XiangruTang"
-description              : &description "personal description"
+description              : &description "student"
 url                      : https://XiangruTang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XiangruTang.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "XiangruTang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Incoming MSc at Institute of Computing Technology, Chinese Academy of Sciences"
+  location         : "Berkeley, California, US"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : xarutang@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,9 +109,9 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/XiangruTang"
   vine             :
-  weibo            :
+  weibo            : "https://www.weibo.com/u/5109748904"
   xing             :
   youtube          :
   wikipedia        :
