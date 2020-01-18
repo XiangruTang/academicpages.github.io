@@ -17,7 +17,9 @@ I am also an amateur Go player and accordionist, I started to learn how to play 
 
 Previously, I was working on dialogue generation, question answering and interpretability. 
 
-For now, my research aims at grounded language learning, especially how networks could tackle cognitive tasks, such as reasoning, planning, imagination and how that can help a learner figure out high-level representations on both the perception and action sides.
+For now, my research aims at grounded language learning, especially how networks could tackle **cognitive ability** (such as reasoning, planning, imagination) and how that can help a learner figure out high-level representations on both the perception and action sides.
+
+>Cognitive ability is defined as a general mental capability involving reasoning, problem solving, planning, abstract thinking, complex idea comprehension, and learning from experience (Gottfredson, 1997).
 
 ## Academic Experience
 
