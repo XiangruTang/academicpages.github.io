@@ -12,7 +12,7 @@ author_profile: true
 2019 Scholarship: Hongyu Zhou Outstanding Talent Award, top 2 students in CCNU 
 
 
-2019 Scholarship: Youjun Zhu Scholarship, selected as top 10 students in CCNU i
+2019 Scholarship: Youjun Zhu Scholarship, selected as top 10 students in CCNU 
 
 
 2018 and 2019 Honors: Outstanding Honor for Undergraduates Research and Innovation
