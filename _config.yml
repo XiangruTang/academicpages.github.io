@@ -83,9 +83,9 @@ author:
   name             : "Xiangru Tang"
   avatar           : "bio-photo.jpg"
   bio              : "Incoming MSc at Institute of Computing Technology, Chinese Academy of Sciences"
-  location         : "Berkeley, California, US"
+  location         : "Berkeley, CA, US"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : xarutang@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -94,16 +94,16 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/tang.xiangru"
   foursquare       :
-  github           : "XiangruTang"
+  github           : "tangxiangru"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/testaccount"
+  linkedin         : "https://www.linkedin.com/in/xiangru-tang-357393197/"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -210,40 +210,40 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
+#  - scope:
+ #     path: ""
+ #     type: teaching
+ #   values:
+ #     layout: single
+ #     author_profile: true
+ #     share: true
       comments: true
   # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
+#  - scope:
+#      path: ""
+#      type: publications
+#    values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+     # share: true
+     # comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+#  - scope:
+#      path: ""
+ #     type: portfolio
+  #  values:
+   #   layout: single
+    #  author_profile: true
+     # share: true
+     # comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+#  - scope:
+#      path: ""
+#      type: talks
+#    values:
+#      layout: talk
+#      author_profile: true
+#      share: true
 
 # Sass/SCSS
 sass:
