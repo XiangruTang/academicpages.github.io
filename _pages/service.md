@@ -16,8 +16,3 @@ Central China Normal University, Spring Semester in 2019, Professor Tingting He.
 [4]IJCAI 2019 Volunteer
 
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}

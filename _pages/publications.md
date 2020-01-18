@@ -20,13 +20,3 @@ author_profile: true
 
 [7]Xiangru Tang, Hanning Gao and Junjie Gao. Knowledge-based Factoid Question Generation with Seq2Seq Learning. The 2018 IEEE International Conference on Progress in Informatics and Computing, 2018. (oral and Best Paper Award)
 
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
