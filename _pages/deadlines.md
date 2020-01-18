@@ -9,11 +9,8 @@ author_profile: true
 
 
 
-
-| left | center | right |
-| :----: | :----: | :----: |
-| aaaa | bbbbbb | ccccc |
-
+| Conference | Paper Deadline | Notification Date | Conference Date | Location |
+| :----: | :----: | :----: | :----: | :----: |
 | SIGIR 2020 L | 2020-01-15\\22 | 2020-04-16 | 2020-07-25 to 2020-07-30 | Xi'an, China |
 | SIGIR 2020 S | 2020-02-13\\20	| 2020-04-16 | 2020-07-25 to 2020-07-30	| Xi'an, China |
 | ICML 2020 | 2020-01-30\\02-06 | 2020-05-09 | 2020-07-13 to 2020-07-18 | Vienna, Austria |
