@@ -9,8 +9,9 @@ redirect_from:
 ---
 I am an incoming MSc student at Institute of Computing Technology, Chinese Academy of Sciences(ICT-CAS), fortunately advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/). Before joining ICT-CAS, I enjoyed four fantasic undergrad years and three research internships at CCNU, HUST, PKU, ICT-CAS and UC Berkeley. My ultimate goal is to understand human intelligence, specifically, I am currently interested in grounded language learning.
 
-<font color="#dd0000">I am continually applying for internships or Ph.D positions.</font><br /> 
 I am also an amateur Go player and accordionist, I started to learn how to play them when I was 6. I am actively looking for potential collaborations (both hobby-wise or research-wise!), feel free to contact me for some potential projects or some fun!
+
+<font color="#dd0000">I am continually applying for internships or Ph.D positions.</font>
 
 ## Research Interest
 
