@@ -9,7 +9,7 @@ author_profile: true
 
 Central China Normal University, Spring Semester in 2019, Professor Tingting He.
 
-[2]Student Outstanding Contribution Award in both 2018 and 2019, as a volunteer of Chi- nese Computer Federation
+[2]Student Outstanding Contribution Award in both 2018 and 2019, as a volunteer of Chinese Computer Federation
 
 [3]ISSTA 2019 Volunteer
 
