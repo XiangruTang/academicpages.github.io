@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "XiangruTang"
+title                    : "Xiangru Tang"
 title_separator          : "-"
 name                     : &name "XiangruTang"
 description              : &description "student"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "XiangruTang"
-  avatar           : "profile.png"
+  name             : "Xiangru Tang"
+  avatar           : "bio-photo.jpg"
   bio              : "Incoming MSc at Institute of Computing Technology, Chinese Academy of Sciences"
   location         : "Berkeley, California, US"
   employer         :
