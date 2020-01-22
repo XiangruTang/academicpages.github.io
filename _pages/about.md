@@ -11,7 +11,7 @@ I am an incoming MSc student at [Institute of Computing Technology](http://engli
 
 I am also an amateur Go player and accordionist, I started to learn how to play them when I was 6. I am actively looking for potential collaborations (both hobby-wise or research-wise!), feel free to contact me for some potential projects or some fun!
 
-<font color="#dd0000">I am continually applying for internships or Ph.D positions.</font>
+<font color="#dd0000">I am continually applying for internships and Ph.D positions.</font>
 
 ## Research Interest
 
