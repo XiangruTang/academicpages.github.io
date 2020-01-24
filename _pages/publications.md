@@ -20,10 +20,10 @@ author_profile: true
 
 [7]Xiangru Tang, Hanning Gao and Junjie Gao. Knowledge-based Factoid Question Generation with Seq2Seq Learning. The 2018 IEEE International Conference on Progress in Informatics and Computing, 2018. (oral and Best Paper Award)
 
-In progress
+**In progress**
 
-[1]Xiangru Tang, Alan Aw* FILM : Applying Fast, Interpretable and Low-rank Metric Learning Approaches to Question Paraphrase
+[1]Xiangru Tang, Alan Aw*. FILM : Applying Fast, Interpretable and Low-rank Metric Learning Approaches to Question Paraphrase
 
-[2]Alexander Whatley, Xiangru Tang, Zhekun Luo Improving RNA Secondary Structure Design using Deep Reinforcement Learning
+[2]Alexander Whatley, Xiangru Tang, Zhekun Luo. Improving RNA Secondary Structure Design using Deep Reinforcement Learning
 
 [3]Alexander Whatley, Xiangru Tang, Terry Regier. Rethinking Efficient Communication with Bidirectional Encoder Representations from Transformers
