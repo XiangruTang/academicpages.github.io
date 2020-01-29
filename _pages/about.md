@@ -12,7 +12,7 @@ I am an incoming MSc student at [Institute of Computing Technology](http://engli
 <font color="#dd0000">I am continually applying for internships and Ph.D positions.</font><br/> 
 # Research Interest
 
-Previously, I was working on dialogue generation, question answering, and interpretability.
+Previously, I was working on dialogue generation, question answering, and models\' interpretability.
 
 For now, my research aims at grounded language learning, especially how networks could tackle **cognitive ability** (such as reasoning, planning, imagination) and how that can help a learner figure out high-level representations on both the perception and action sides.
 
