@@ -9,8 +9,6 @@ redirect_from:
 ---
 I am an incoming MSc student at [Institute of Computing Technology](http://english.ict.cas.cn/au/), [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (ICT-CAS), and a member of Key Laboratory of [Network Data Science & Technology](http://www.bigdatalab.ac.cn/lab/lab/english), fortunately advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/). Before joining ICT-CAS, I enjoyed my fantasic research internships and undergrad years at CCNU, HUST, PKU, ICT-CAS and UC Berkeley. I really thank all the people who helped me. My ultimate goal is to understand human intelligence, specifically, I am currently interested in grounded language learning. As a quote by Albert Einstein goes: \"Any fool can know. The point is to understand.\"
 
-I am also an amateur Go player and accordionist, I started to learn how to play them when I was 6. I am actively looking for potential collaborations (both hobby-wise or research-wise!), feel free to contact me for some potential projects or some fun!
-
 <font color="#dd0000">I am continually applying for internships and Ph.D positions.</font>
 
 ## Research Interest
@@ -20,6 +18,17 @@ Previously, I was working on dialogue generation, question answering and interpr
 For now, my research aims at grounded language learning, especially how networks could tackle **cognitive ability** (such as reasoning, planning, imagination) and how that can help a learner figure out high-level representations on both the perception and action sides.
 
 >Cognitive ability is defined as a general mental capability involving reasoning, problem solving, planning, abstract thinking, complex idea comprehension, and learning from experience (Gottfredson, 1997).
+
+I am developing machine learning tools and techniques of everyday cognitive abilities, focusing on problems that are easier for people than they are for machines. The human mind is the best-known solution to a diverse array of difficult computational problems: learning new concepts, learning new tasks, understanding scenes, learning a language, asking questions, forming explanations, amongst many others. Machines also struggle to simulate other facets of human intelligence, including creativity, curiosity, self-assessment, and commonsense reasoning. And I know it is my great happiness to contribute towards it and finding answers to the following question.
+
+* What are general mathematical models of perceiving, reasoning and learning?
+* How does intelligence emerge from a complicated structure?
+* What should the new paradigm of scientific research be in this AI era?
+* How do agents interact and cooperate to build things, interweave concepts and discover knowledge?
+
+# Miscellaneous
+
+I am also an amateur Go player and accordionist, I started to learn how to play them when I was 6. I am actively looking for potential collaborations (both hobby-wise or research-wise!), feel free to contact me for some potential projects or some fun!
 
 ## Academic Experience
 
