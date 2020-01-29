@@ -10,7 +10,7 @@ redirect_from:
 I am an incoming MSc student at [Institute of Computing Technology](http://english.ict.cas.cn/au/), [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (ICT-CAS), and a member of Key Laboratory of [Network Data Science & Technology](http://www.bigdatalab.ac.cn/lab/lab/english), advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately. Before joining ICT-CAS, I enjoyed my fantastic research internships and undergrad years at CCNU, HUST, PKU, ICT-CAS, and UC Berkeley. I really thank all the people who helped me. My ultimate goal is to understand human intelligence. Specifically, I am currently interested in grounded language learning. As a quote by Albert Einstein goes: \"Any fool can know. The point is to understand.\"
 
 <font color="#dd0000">I am continually applying for internships and Ph.D positions.</font>
-
+;sksjdkjsd
 # Research Interest
 
 Previously, I was working on dialogue generation, question answering, and interpretability.
