@@ -11,7 +11,7 @@ I am an incoming MSc student at [Institute of Computing Technology](http://engli
 
 <font color="#dd0000">I am continually applying for internships and Ph.D positions.</font>
 
-## Research Interest
+# Research Interest
 
 Previously, I was working on dialogue generation, question answering and interpretability. 
 
@@ -30,7 +30,7 @@ I am developing machine learning tools and techniques of everyday cognitive abil
 
 I am also an amateur Go player and accordionist, I started to learn how to play them when I was 6. I am actively looking for potential collaborations (both hobby-wise or research-wise!), feel free to contact me for some potential projects or some fun!
 
-## Academic Experience
+# Academic Experience
 
 * UC Berkeley, Exchange and Visiting Student in Department of EECS and Berkeley AI Research Lab(BAIR), Berkeley, CA, USA. July 2019 - Mar. 2020
 * Institute of Computing Technology, Chinese Academy of Science, Guest student in CAS Key Lab of Network Data Science and Technology, Advisor: Prof. [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/), Beijing, China. Nov. 2018 - July 2019
