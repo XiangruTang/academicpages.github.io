@@ -12,6 +12,9 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Research Statement"
+    url: /ps/
+
   - title: "Deadlines"
     url: /deadlines/    
 
