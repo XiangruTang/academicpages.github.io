@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Research Statement"
-permalink: /ps/
+title: "Statement"
+permalink: /sop/
 author_profile: true
 ---
 
 {% include base_path %}
 
-[*PS PDF*](https://xiangrutang.github.io/files/ps1.pdf)
+[*SOP PDF*](https://xiangrutang.github.io/files/ps1.pdf)
 
 
