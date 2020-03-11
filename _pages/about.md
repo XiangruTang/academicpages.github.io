@@ -28,10 +28,6 @@ I am developing machine learning tools and techniques of everyday cognitive abil
 * What should the new paradigm of scientific research be in this AI era?
 * How do agents interact and cooperate to build things, interweave concepts and discover knowledge?
 
-# Miscellaneous
-
-I am also an amateur Go player and accordionist, and I started to learn how to play them when I was 6. I am actively looking for potential collaborations (both hobby-wise or research-wise), feel free to contact me for some potential projects or some fun!
-
 # Academic Experience
 
 * UC Berkeley, Exchange and Visiting Student in Department of EECS and Berkeley AI Research Lab(BAIR), Berkeley, CA, USA. July 2019 - Mar. 2020
@@ -39,3 +35,7 @@ I am also an amateur Go player and accordionist, and I started to learn how to p
 * Peking University, Research Assistant in [Institute of Computer Science and Technology](http://www.wict.pku.edu.cn/english/home/index.htm), Advisor: Prof. [Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ&hl=en), Beijing, China. June 2018 - Oct. 2018
 * National Language Resources Monitoring and Research Center, Research Assistant, Advisor: Prof. [Guangyou Zhou](https://scholar.google.com/citations?hl=en&user=ude9U4wAAAAJ&view_op=list_works&sortby=pubdate) and [Tingting He](https://dblp.uni-trier.de/pers/hd/h/He:Tingting), Wuhan, China. Sep. 2017 - June. 2018
 * Huazhong University of Science and Technology, Member of [AI Lab](https://unique-ailab.github.io/) of [Qiming College](http://qiming.hust.edu.cn/) and [Unique Studio](https://baike.baidu.com/item/%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F/2148447), Wuhan, China. June 2017 - June 2018
+
+# Miscellaneous
+
+I am also an amateur Go player and accordionist, and I started to learn how to play them when I was 6. I am actively looking for potential collaborations (both hobby-wise or research-wise), feel free to contact me for some potential projects or some fun!
