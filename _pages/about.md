@@ -7,17 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a senior student (now in Berkeley) and also an incoming graduate student at [Institute of Computing Technology](http://english.ict.cas.cn/au/), [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (ICT-CAS), and a member of Key Laboratory of [Network Data Science & Technology](http://www.bigdatalab.ac.cn/lab/lab/english), advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately. Before joining ICT-CAS, I enjoyed my fantastic research internships and undergrad years at CCNU, HUST, PKU, ICT-CAS, and UC Berkeley. I really thank all the people who helped me. My ultimate goal is to understand human intelligence. Specifically, I am currently interested in building systems that demonstrate a deep understanding of the world, integrating cognitive abilities for reading, learning, reasoning, and grounding. As a quote by Albert Einstein goes: \"Any fool can know. The point is to understand.\"
+I am a senior student (now in Berkeley) and also an incoming graduate student at [Institute of Computing Technology](http://english.ict.cas.cn/au/), [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (ICT-CAS), and a member of Key Laboratory of [Network Data Science & Technology](http://www.bigdatalab.ac.cn/lab/lab/english), advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately. Before joining ICT-CAS, I enjoyed my fantastic research internships and undergrad years at CCNU, HUST, PKU, ICT-CAS, and UC Berkeley. 
+
+Through my research, I hope to contribute to the understanding of how intelligent systems form representations of meaning within the context of multisensory perception and communication. Specifically, I am currently interested in integrating cognitive abilities for reading, learning, reasoning, and grounding. As a quote by Albert Einstein goes: \"Any fool can know. The point is to understand.\"
 
 <font color="#dd0000">I am currently looking for internships and Ph.D positions.</font><br/> 
 
 Contact me: xrtang@berkeley.edu
 # Research Interest
 
-Previously, I was working on dialogue generation, question answering, and models\' interpretability.
+Previously, I was working on dialogue generation, question answering, and interpretability within machine learning.
 
 For now, my research aims at bridging machine learning and cognitive science, especially how networks could tackle **cognitive ability** (such as reasoning, planning, imagination) and how that can help a learner figure out high-level representations on both the perception and action sides.
-
 
 >Cognitive ability is defined as a general mental capability involving reasoning, problem-solving, planning, abstract thinking, complex idea comprehension, and learning from experience (Gottfredson, 1997).
 
