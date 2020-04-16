@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a senior student (now in Berkeley) and also an incoming graduate student at [Institute of Computing Technology](http://english.ict.cas.cn/au/), [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (ICT-CAS), and a member of Key Laboratory of [Network Data Science & Technology](http://www.bigdatalab.ac.cn/lab/lab/english), advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately. Before joining ICT-CAS, I enjoyed my fantastic research internships and undergrad years at CCNU, HUST, PKU, ICT-CAS, and UC Berkeley. 
 
-Through my research, I hope to contribute to the understanding of how intelligent systems form representations of meaning within the context of multisensory perception and communication. Specifically, I am currently interested in integrating cognitive abilities for reading, learning, reasoning, and grounding. As a quote by Albert Einstein goes: \"Any fool can know. The point is to understand.\"
+Through my research, I hope to contribute to the understanding of how intelligent systems form representations of meaning within the context of multisensory perception and communication. Specifically, I am currently interested in integrating cognitive abilities for reading, learning, reasoning, and grounding. As a quote by Albert Einstein goes: \"Any fool can know. The point is to understand.\" I am also very interested in AI for social good, in particular in healthcare and the environment (with a focus on climate change).
 
 <font color="#dd0000">I am currently looking for internships and Ph.D positions.</font><br/> 
 
