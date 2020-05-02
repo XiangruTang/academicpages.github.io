@@ -31,6 +31,8 @@ I am developing machine learning tools and techniques of everyday cognitive abil
 
 # Academic Experience
 
+* Research Collaboration: Working for MIT CSAIL Clinical Decision Making Group, Mentor: Di Jin, Remotely. April. 2020 - now
+* Research Collaboration: Working for CMU CSAIL Multimodal Communication and Machine Learning Laboratory, Mentor: Paul Liang, Remotely. April. 2020 - now
 * UC Berkeley, Exchange and Visiting Student in Department of EECS and Berkeley AI Research Lab(BAIR), Berkeley, CA, USA. July 2019 - Mar. 2020
 * Institute of Computing Technology, Chinese Academy of Science, Guest student in CAS Key Lab of Network Data Science and Technology, Advisor: Prof. [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/), Beijing, China. Nov. 2018 - July 2019
 * Peking University, Research Assistant in [Institute of Computer Science and Technology](http://www.wict.pku.edu.cn/english/home/index.htm), Advisor: Prof. [Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ&hl=en), Beijing, China. June 2018 - Oct. 2018
