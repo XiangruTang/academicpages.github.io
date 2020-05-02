@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a senior student (now in Berkeley) and also an incoming graduate student at [Institute of Computing Technology](http://english.ict.cas.cn/au/), [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (ICT-CAS), and a member of Key Laboratory of [Network Data Science & Technology](http://www.bigdatalab.ac.cn/lab/lab/english), advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately. Before joining ICT-CAS, I enjoyed my fantastic research internships and undergrad years at CCNU, HUST, PKU, ICT-CAS, and UC Berkeley. 
+I am a senior student (now at UC Berkeley) and also a member of Laboratory of [Network Data Science & Technology](http://www.bigdatalab.ac.cn/lab/lab/english) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS), advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately. I enjoyed my fantastic research internships and undergrad years at CCNU, HUST, PKU, ICT-CAS, and UC Berkeley. 
 
 Through my research, I hope to contribute to the understanding of how intelligent systems form representations of meaning within the context of multisensory perception and communication. Specifically, I am currently interested in integrating cognitive abilities for reading, learning, reasoning, and grounding. As a quote by Albert Einstein goes: \"Any fool can know. The point is to understand.\" I am also very interested in AI for social good, in particular in healthcare and the environment (with a focus on climate change).
 
@@ -31,8 +31,8 @@ I am developing machine learning tools and techniques of everyday cognitive abil
 
 # Academic Experience
 
-* Research Collaboration: Working for MIT CSAIL Clinical Decision Making Group, Mentor: Di Jin, Remotely. April. 2020 - now
-* Research Collaboration: Working for CMU CSAIL Multimodal Communication and Machine Learning Laboratory, Mentor: Paul Liang, Remotely. April. 2020 - now
+* Research Collaboration: Working for MIT CSAIL Clinical Decision Making Group, Mentor: Di Jin, remotely. April. 2020 - now
+* Research Collaboration: Working for CMU CSAIL Multimodal Communication and Machine Learning Laboratory, Mentor: Paul Liang, remotely. April. 2020 - now
 * UC Berkeley, Exchange and Visiting Student in Department of EECS and Berkeley AI Research Lab(BAIR), taking course. GPA:3.8/4. Berkeley, CA, USA. July 2019 - Mar. 2020
 * Institute of Computing Technology, Chinese Academy of Science, Guest student in CAS Key Lab of Network Data Science and Technology, Advisor: Prof. [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/), Beijing, China. Nov. 2018 - July 2019
 * Peking University, Research Assistant in [Institute of Computer Science and Technology](http://www.wict.pku.edu.cn/english/home/index.htm), Advisor: Prof. [Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ&hl=en), Beijing, China. June 2018 - Oct. 2018
