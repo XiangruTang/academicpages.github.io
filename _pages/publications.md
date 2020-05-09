@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 
-[1]Xiangru Tang, Yujie Wang, Xianjun Shen. Categorizing Offensive Language in the Online World : A Chinese Corpus, Systems and an Explainable Tool. The 12th International Conference on Language Resources and Evaluation. 2020 <font face="STCAIYUN">[PDF](https://drive.google.com/file/d/12XRoef6vgD3rRRJJHfsmMu743_jL9EPv/view?usp=sharing)</font>
-
+[1]Xiangru Tang, Yujie Wang, Xianjun Shen. Categorizing Offensive Language in the Online World : A Chinese Corpus, Systems and an Explainable Tool. The 12th International Conference on Language Resources and Evaluation. 2020 [PDF](https://drive.google.com/file/d/12XRoef6vgD3rRRJJHfsmMu743_jL9EPv/view?usp=sharing)
 
 [2]Xiangru Tang, Xinhui Tu. SYMGraph: A Neural Symbolic Approach with Numerically-Aware Graph forDiscrete Reasoning. The AAAI 2020 Workshop on Reasoning for Complex Question Answering. 2020.
 
