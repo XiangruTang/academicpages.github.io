@@ -9,16 +9,16 @@ redirect_from:
 ---
 I am a senior student (now at UC Berkeley) and also a member of Laboratory of [Network Data Science & Technology](http://www.bigdatalab.ac.cn/lab/lab/english) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS), advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately. I enjoyed my fantastic research internships and undergrad years at HUST, PKU, UCAS, and UC Berkeley BAIR. 
 
-Through my research, I hope to contribute to the understanding of how intelligent systems form representations of meaning within the context of multisensory perception and communication. Specifically, I am currently interested in integrating cognitive abilities for reading, learning, reasoning, and grounding. As a quote by Albert Einstein goes: \"Any fool can know. The point is to understand.\" I am also very interested in AI for social good, in particular in healthcare and the environment (with a focus on climate change).
+Through my research, I hope to contribute to the understanding of how intelligent systems form representations of meaning within the context of multisensory perception and communication. Specifically, I am currently interested in integrating cognitive abilities for reading, learning, reasoning, and grounding. I am also very interested in healthcare and the environment.
 
 <font color="#dd0000">I am currently looking for internships and Ph.D positions.</font><br/> 
 
 Contact me: xrtang@berkeley.edu
 # Research Interest
 
-Previously, I was working on dialogue generation, question answering, and interpretability within machine learning.
+Previously, I was working on text generation, question answering, and interpretability within machine learning.
 
-For now, my research aims at bridging machine learning and cognitive science, especially how machine could tackle **cognitive ability** (such as reasoning, planning, imagination) and how that can help a learner figure out high-level representations on both the perception and action sides.
+For now, I'm interested in how machine could tackle **cognitive ability** (such as reasoning, planning, imagination) and how that can help a learner figure out high-level representations on both the perception and action sides.
 
 >Cognitive ability is defined as a general mental capability involving reasoning, problem-solving, planning, abstract thinking, complex idea comprehension, and learning from experience (Gottfredson, 1997).
 
