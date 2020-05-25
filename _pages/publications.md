@@ -21,9 +21,9 @@ author_profile: true
 
 **In progress**
 
-[1]Xiangru Tang, Alan Aw*. FILM : Applying Fast, Interpretable and Low-rank Metric Learning Approaches to Question Paraphrase [PDF](https://drive.oogle.com/file/d/1QQBGsrkHC4eEm6fq2PpOdYW4Gi-38GBA/view?usp=sharing)
+[1]Xiangru Tang, Alan Aw*. FILM : Applying Fast, Interpretable and Low-rank Metric Learning Approaches to Question Paraphrase [PDF](https://rive.google.com/file/d/1QQBGsrkHC4eEm6fq2PpOdYW4Gi-38GBA/view?usp=sharing)
 
-[2]Xiangru Tang, Rodolfo Corona. Multi-Granularity Modularized Network for Spatial Cognition and Visual Reasoning [PDF](https://drive.oogle.com/file/d/1318m7oWOVPY-FgYRMXHl8xdBDkilfRt9/view?usp=sharing)
+[2]Xiangru Tang, Rodolfo Corona. Multi-Granularity Modularized Network for Spatial Cognition and Visual Reasoning [PDF](https://rive.google.com/file/d/1318m7oWOVPY-FgYRMXHl8xdBDkilfRt9/view?usp=sharing)
 
 [3]Alexander Whatley, Xiangru Tang, Zhekun Luo. Improving RNA Secondary Structure Design using Deep Reinforcement Learning
 
