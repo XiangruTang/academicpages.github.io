@@ -42,7 +42,7 @@ I am developing machine learning tools and techniques of everyday cognitive abil
 * Peking University, Research Assistant in [Institute of Computer Science and Technology](http://www.wict.pku.edu.cn/english/home/index.htm), Advisor: Prof. [Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ&hl=en), Beijing, China. June 2018 - Oct. 2018
 * National Language Resources Monitoring and Research Center, Research Assistant, Advisor: Prof. [Guangyou Zhou](https://scholar.google.com/citations?hl=en&user=ude9U4wAAAAJ&view_op=list_works&sortby=pubdate) and [Tingting He](https://dblp.uni-trier.de/pers/hd/h/He:Tingting), Wuhan, China. Sep. 2017 - June. 2018
 
-# professional service
+# Professional Service
 
 Program Committee: Challenge-HML@ACL 2020
 
