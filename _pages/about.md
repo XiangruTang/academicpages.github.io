@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a senior student (now at UC Berkeley) and also a member of Laboratory of [Network Data Science & Technology](http://www.bigdatalab.ac.cn/lab/lab/english) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS), advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately. I enjoyed my fantastic research internships and undergrad years at HUST, PKU, UCAS, and UC Berkeley BAIR. 
+I am now working at Tencent AI LAB and also a member of Laboratory of [Network Data Science & Technology](http://www.bigdatalab.ac.cn/lab/lab/english) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS), advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately. I enjoyed my fantastic research internships and undergrad years at HUST, PKU, UCAS, and UC Berkeley BAIR. 
 
-Through my research, I hope to contribute to the understanding of how intelligent systems form representations of meaning within the context of multisensory perception and communication. Specifically, I am currently interested in integrating cognitive abilities for reading, learning, reasoning, and grounding. I am also very interested in healthcare and the climate change.
+My research interest lies in various NLP problems in language understanding, generation, and grounding that require effective understanding of contexts.
+
 
 <font color="#dd0000">I am currently looking for internships and Ph.D positions.</font><br/> 
 
