@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now working at Tencent AI LAB and also a member of Laboratory of [Network Data Science & Technology](http://www.bigdatalab.ac.cn/lab/lab/english) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS), advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately. I enjoyed my fantastic research internships and undergrad years at HUST, PKU, UCAS, and UC Berkeley BAIR. 
+I am now working at Microsoft Research Asia and also a member of [Institute of Computing Technology](http://english.ict.cas.cn/) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS), advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately. I enjoyed my fantastic research internships and undergrad years at HUST, PKU, UCAS, and UC Berkeley BAIR. 
 
 My research interest lies in various NLP problems in language generation and grounding that require effective understanding of contexts. Also, I am interested in computational social science, such as applications of learning science.
 
@@ -19,6 +19,7 @@ Contact me: xrtang@berkeley.edu or xarutang@gmail.com
 
 Previously, I was working on text generation, question answering, and interpretability within machine learning.
 
+Google Scholar](https://scholar.google.com/citations?user=gGcRkpYAAAAJ&hl=en&oi=sra) 
 
 I am developing machine learning tools and techniques of everyday cognitive abilities, focusing on problems that are easier for people than they are for machines. The human mind is the best-known solution to a diverse array of challenging computational problems: learning new concepts, learning new tasks, understanding scenes, learning a language, asking questions, forming explanations, amongst many others. Machines also struggle to simulate other facets of human intelligence, including creativity, curiosity, self-assessment, and commonsense reasoning. And I know it is my great happiness to contribute towards it and finding answers to the following question.
 
@@ -32,6 +33,8 @@ I am developing machine learning tools and techniques of everyday cognitive abil
 * UC Berkeley, Exchange and Visiting Student in Department of EECS and Berkeley AI Research Lab(BAIR), GPA:3.8/4. Berkeley, CA, USA. July 2019 - Mar. 2020
 
 # Academic Experience
+
+* [Tencent AI LAB](https://ai.tencent.com/ailab/en/index): Research Intern
 * Research Collaboration: Working for Yale LILY Group, under Dr. Dragomir Radev
 * Research Collaboration: Working for MIT CSAIL Clinical Decision Making Group, Mentor: [Di Jin](https://scholar.google.com/citations?user=x5QTK9YAAAAJ&hl=en), remotely. April. 2020 - May. 2020
 * Research Collaboration: Working for CMU Multimodal Communication and Machine Learning Laboratory, Mentor: [Paul Liang](http://www.cs.cmu.edu/~pliang/), remotely. April. 2020 - 
