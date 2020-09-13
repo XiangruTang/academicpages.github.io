@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
   - title: "Honors and Scholarship"
     url: /teaching/    
@@ -9,11 +7,7 @@ main:
   - title: "Service"
     url: /service/
     
-  - title: "CV"
-    url: /cv/
 
-  - title: "Statement"
-    url: /sop/
 
   - title: "Deadlines"
     url: /deadlines/    
