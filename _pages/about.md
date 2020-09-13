@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now working at Microsoft Research Asia and also a member of [Institute of Computing Technology](http://english.ict.cas.cn/) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS), advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately. I enjoyed my fantastic research internships and undergrad years at HUST, PKU, UCAS, and UC Berkeley BAIR. 
+I am now working at [ML Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) of Microsoft Research Asia and also a member of [Institute of Computing Technology](http://english.ict.cas.cn/) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS), advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately. I enjoyed my fantastic research internships and undergrad years at HUST, PKU, UCAS, and UC Berkeley BAIR. 
 
 My research interest lies in various NLP problems in language generation and grounding that require effective understanding of contexts. Also, I am interested in computational social science, such as applications of learning science.
 
@@ -19,7 +19,7 @@ Contact me: xrtang@berkeley.edu or xarutang@gmail.com
 
 Previously, I was working on text generation, question answering, and interpretability within machine learning.
 
-Google Scholar](https://scholar.google.com/citations?user=gGcRkpYAAAAJ&hl=en&oi=sra) 
+[Google Scholar](https://scholar.google.com/citations?user=gGcRkpYAAAAJ&hl=en&oi=sra) 
 
 I am developing machine learning tools and techniques of everyday cognitive abilities, focusing on problems that are easier for people than they are for machines. The human mind is the best-known solution to a diverse array of challenging computational problems: learning new concepts, learning new tasks, understanding scenes, learning a language, asking questions, forming explanations, amongst many others. Machines also struggle to simulate other facets of human intelligence, including creativity, curiosity, self-assessment, and commonsense reasoning. And I know it is my great happiness to contribute towards it and finding answers to the following question.
 
