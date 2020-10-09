@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now working at [ML Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) of Microsoft Research Asia and also a member of [Institute of Computing Technology](http://english.ict.cas.cn/) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS), advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately. I enjoyed my fantastic research internships and undergrad years at HUST, PKU, UCAS, and UC Berkeley BAIR. 
+I am now working at [ML Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) of Microsoft Research Asia and also a member of [Institute of Computing Technology](http://english.ict.cas.cn/) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS). <!--advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately.--> I enjoyed my fantastic research internships and undergrad years at HUST, PKU, UCAS, and UC Berkeley BAIR. 
 
 My research interest lies in various NLP problems in language generation and grounding that require effective understanding of contexts. Also, I am interested in computational social science, such as applications of learning science.
 
 
-<font color="#dd0000">I am currently looking for internships and Ph.D positions.</font><br/> 
+<font color="#dd0000">I am currently NOT looking for internships and Ph.D positions.</font><br/> 
 
-Contact me: xrtang@berkeley.edu or xarutang@gmail.com
+Contact me: xarutang@gmail.com
 # Research Interest
 
 Previously, I was working on text generation, question answering, and interpretability within machine learning.
@@ -32,6 +32,7 @@ I am developing machine learning tools and techniques of everyday cognitive abil
 * University of Chinese Academy of Science, Master of Computer Science, Beijing, China. Sep. 2020 - now 
 * UC Berkeley, Exchange and Visiting Student in Department of EECS and Berkeley AI Research Lab(BAIR), GPA:3.8/4. Berkeley, CA, USA. July 2019 - Mar. 2020
 
+<!--
 # Academic Experience
 
 * [Tencent AI LAB](https://ai.tencent.com/ailab/en/index): Research Intern
@@ -41,10 +42,10 @@ I am developing machine learning tools and techniques of everyday cognitive abil
 * Institute of Computing Technology, Chinese Academy of Science, Guest student in CAS Key Lab of Network Data Science and Technology, Advisor: Prof. [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/), Beijing, China. Nov. 2018 - July 2019
 * Peking University, Research Assistant in [Institute of Computer Science and Technology](http://www.wict.pku.edu.cn/english/home/index.htm), Advisor: Prof. [Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ&hl=en), Beijing, China. June 2018 - Oct. 2018
 * National Language Resources Monitoring and Research Center, Research Assistant, Advisor: Prof. [Guangyou Zhou](https://scholar.google.com/citations?hl=en&user=ude9U4wAAAAJ&view_op=list_works&sortby=pubdate) and [Tingting He](https://dblp.uni-trier.de/pers/hd/h/He:Tingting), Wuhan, China. Sep. 2017 - June. 2018
-
+-->>
 # Professional Service
 
-Program Committee: Challenge-HML@ACL 2020
+Program Committee: Challenge-HML@ACL 2020, AAAI 2021
 
 # Miscellaneous
 
