@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am now working at <!--[ML Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) of -->Microsoft Research and also a member of [Institute of Computing Technology](http://english.ict.cas.cn/) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS). <!--advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately.--> I enjoyed my fantastic research internships and undergrad years at HUST, PKU, UCAS, and UC Berkeley BAIR. 
 
-My research interest lies in various NLP problems in language generation and grounding that require effective understanding of contexts. Also, I am interested in computational social science, such as (NLP for) learning science and sociology of science.
+My research interest lies in various NLP problems in language generation and grounding that require effective understanding of contexts. Also, I am interested in computational social science, such as (NLP for) sociology of learning and sociology of knowledge.
 
 
 <font color="#dd0000">I am currently looking for Ph.D positions.</font><br/> 
