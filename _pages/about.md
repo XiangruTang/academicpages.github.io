@@ -45,7 +45,7 @@ I am developing machine learning tools and techniques of everyday cognitive abil
 -->>
 # Professional Service
 
-Program Committee: [Challenge-HML@ACL 2020](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/), AAAI 2021, [ALVR 2021](https://alvr-workshop.github.io/)
+Program Committee: ICML 2021, ACL 2021, AAAI 2020, [Challenge-HML@ACL 2020](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/), [ALVR 2021](https://alvr-workshop.github.io/)
 
 # Miscellaneous
 
