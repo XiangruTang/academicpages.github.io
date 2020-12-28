@@ -29,8 +29,8 @@ I am developing machine learning tools and techniques of everyday cognitive abil
 * How do agents interact and cooperate to build things, interweave concepts and discover knowledge?
 
 # Education
-* University of Chinese Academy of Science, Master of Computer Science, Beijing, China. Sep. 2020 - now 
-* UC Berkeley, Exchange and Visiting Student in Department of EECS and Berkeley AI Research Lab(BAIR), GPA:3.8/4. Berkeley, CA, USA. July 2019 - Mar. 2020
+* University of Chinese Academy of Science, Master of Computer Science, Beijing, China 
+* UC Berkeley, Department of EECS and Berkeley AI Research Lab(BAIR), GPA:3.8/4. Berkeley, CA, USA.
 
 <!--
 # Academic Experience
