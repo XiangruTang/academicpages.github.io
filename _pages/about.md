@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now working at <!--[ML Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) of -->Microsoft Research and also a member of [Institute of Computing Technology](http://english.ict.cas.cn/) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS). <!--advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately.--> I enjoyed my fantastic research internships and undergrad years at HUST, PKU, UCAS, and UC Berkeley BAIR. 
+I am now working at <!--[ML Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) of -->Microsoft Research now. I am fortunate to be advised by [Dr. Ming Zhou (ACL president)](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en), [Prof. Dragomir R. Radev (ACM and AAAI Fellow)](https://cpsc.yale.edu/people/dragomir-radev) and [Prof. Yanyan Lan](https://scholar.google.com/citations?user=mNfCP3gAAAAJ&hl=en). My research interest lies in various NLP problems in language generation and grounding that require effective understanding of contexts. Also, I am interested in computational social science, such as (NLP for) sociology of learning and sociology of knowledge.
 
-My research interest lies in various NLP problems in language generation and grounding that require effective understanding of contexts. Also, I am interested in computational social science, such as (NLP for) sociology of learning and sociology of knowledge.
+
+ <!--and also a member of [Institute of Computing Technology](http://english.ict.cas.cn/) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS). advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately.--> I enjoyed my research internships and fantastic undergrad years at HUST, PKU, UCAS, Sinovation Ventures, Microsoft Research and UC Berkeley. 
+
 
 
 <font color="#dd0000">I am currently looking for Ph.D positions.</font><br/> 
