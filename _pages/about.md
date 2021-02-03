@@ -10,7 +10,15 @@ redirect_from:
 I am now working at <!--[ML Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) of -->Microsoft Research. I am fortunate to be advised by [Dr. Ming Zhou (ACL president)](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en), [Prof. Dragomir R. Radev (ACM/AAAI Fellow)](https://cpsc.yale.edu/people/dragomir-radev) and [Prof. Yanyan Lan](https://scholar.google.com/citations?user=mNfCP3gAAAAJ&hl=en). My research interest lies in various NLP problems in language generation and grounding that require effective understanding of contexts. Also, I am interested in computational social science, such as (NLP for) sociology of learning and sociology of knowledge.
 
 
- <!--and also a member of [Institute of Computing Technology](http://english.ict.cas.cn/) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS). advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately.--> I enjoyed my research internships and fantastic undergrad years at Unique-Studio, Peking University, Chinese Academy of Sciences, Sinovation Ventures, Tencent, Microsoft Research and UC Berkeley. 
+ <!--and also a member of [Institute of Computing Technology](http://english.ict.cas.cn/) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS). advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately.--> I enjoyed my research internships and fantastic undergrad years at:
+
+* Unique-Studio: We found the earliest and largest collegiate hackathon in China.
+
+* Chinese Academy of Sciences: Detecting COVID-19-related fake news in social media was awarded by our government and deployed into real practice to pandemic.
+
+* Sinovation Ventures: We teamed up 11 award-winning authors with my model to write science fiction, support creativity, and empower humans, which was reported by People's Daily, Yahoo news, etc. 
+ 
+* Tencent, Microsoft Research and UC Berkeley...
 
 
 
