@@ -13,7 +13,6 @@ I am now working at <!--[ML Group](https://www.microsoft.com/en-us/research/grou
  <!--and also a member of [Institute of Computing Technology](http://english.ict.cas.cn/) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS). advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately.--> I enjoyed my research internships and fantastic undergrad years at:
 
 * Unique-Studio: We found the earliest and largest collegiate hackathon in China.
-
 * Chinese Academy of Sciences: Detecting COVID-19-related fake news in social media was awarded by our government and deployed into real practice to pandemic.
 
 * Sinovation Ventures: We teamed up 11 award-winning authors with my model to write science fiction, support creativity, and empower humans, which was reported by People's Daily, Yahoo news, etc. 
