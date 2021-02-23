@@ -54,4 +54,4 @@ Program Committee: ICML 2021, ACL 2021, AAAI 2020, [Challenge-HML@ACL 2020](http
 
 # Miscellaneous
 
-I am also an amateur Go player and accordionist, and I started to learn how to play them when I was 6. I am actively looking for potential collaborations (both hobby-wise or research-wise), feel free to contact me for some potential projects or some fun!
+I am also an amateur Go player and accordionist, and I started to learn how to play them when I was 5. I am actively looking for potential collaborations (both hobby-wise or research-wise), feel free to contact me for some potential projects or some fun!
