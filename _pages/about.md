@@ -13,6 +13,10 @@ I am now working at <!--[ML Group](https://www.microsoft.com/en-us/research/grou
  <!--and also a member of [Institute of Computing Technology](http://english.ict.cas.cn/) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS). advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately.--> I enjoyed my research internships and fantastic undergrad years at:
 
 * Unique-Studio: We found the earliest and largest collegiate hackathon in China.
+
+
+* UC Berkeley: Mentor in the world's largest collegiate hackathon.
+
 * Chinese Academy of Sciences: Detecting COVID-19-related fake news in social media was awarded by our government and deployed into real practice to curb the pandemic.
 
 * Sinovation Ventures: We teamed up 11 award-winning authors with my model to write science fiction, support creativity, and empower humans, which was reported by People's Daily, Yahoo news, etc. 
@@ -20,15 +24,10 @@ I am now working at <!--[ML Group](https://www.microsoft.com/en-us/research/grou
 * Tencent, Microsoft Research and UC Berkeley...
 
 
-
-<font color="#dd0000">I am currently looking for Ph.D positions.</font><br/> 
-
 Contact me: xarutang@gmail.com
 # Research Interest
 
 Previously, I was working on text generation, question answering, and interpretability within machine learning.
-
-[Google Scholar](https://scholar.google.com/citations?user=gGcRkpYAAAAJ&hl=en&oi=sra) 
 
 I am developing machine learning tools and techniques of everyday cognitive abilities, focusing on problems that are easier for people than they are for machines. The human mind is the best-known solution to a diverse array of challenging computational problems: learning new concepts, learning new tasks, understanding scenes, learning a language, asking questions, forming explanations, amongst many others. Machines also struggle to simulate other facets of human intelligence, including creativity, curiosity, self-assessment, and commonsense reasoning. And I know it is my great happiness to contribute towards it and finding answers to the following question.
 
@@ -37,9 +36,6 @@ I am developing machine learning tools and techniques of everyday cognitive abil
 * What should the new paradigm of scientific research be in this AI era?
 * How do agents interact and cooperate to build things, interweave concepts and discover knowledge?
 
-# Education
-* University of Chinese Academy of Science, Master of Computer Science, Beijing, China 
-* UC Berkeley, Department of EECS and Berkeley AI Research Lab(BAIR), GPA:3.8/4. Berkeley, CA, USA.
 
 <!--
 # Academic Experience
