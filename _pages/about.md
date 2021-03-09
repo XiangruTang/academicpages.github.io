@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now working at <!--[ML Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) of -->Microsoft Research. I am fortunate to be advised by [Dr. Ming Zhou (ACL president)](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en) and [Prof. Dragomir R. Radev (ACM/AAAI Fellow)](https://cpsc.yale.edu/people/dragomir-radev). My research interest lies in various NLP problems in language generation and grounding that require effective understanding of contexts. Also, I am interested in computational social science, such as (NLP for) sociology of learning and sociology of knowledge.
-
+I was worked at <!--[ML Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) of -->Microsoft Research, Tencent, and Sinovation Ventures. I am fortunate to be advised by [Dr. Ming Zhou (ACL president)](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en) and [Prof. Dragomir R. Radev (ACM/AAAI Fellow)](https://cpsc.yale.edu/people/dragomir-radev). My research interest lies in various NLP problems in language generation and grounding that require effective understanding of contexts. 
 
  <!--and also a member of [Institute of Computing Technology](http://english.ict.cas.cn/) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS). advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately.--> I enjoyed my research internships and fantastic undergrad years at:
 
@@ -21,13 +20,20 @@ I am now working at <!--[ML Group](https://www.microsoft.com/en-us/research/grou
 
 * Sinovation Ventures: We teamed up 11 award-winning authors with my model to write science fiction, support creativity, and empower humans, which was reported by People's Daily, Yahoo news, etc. 
  
-* Tencent, Microsoft Research and UC Berkeley...
-
-
 Contact me: xarutang@gmail.com
+
+# Honor
+
+* I won the **first place** in the final roadshow of 6-th National Youth AI Innovation and Entrepreneurship Conference, organized by Chinese Association for Artificial Intelligence. This project is about providing AI functionality as a Service in enterprise contexts.
+
+
+* Our team  won the **first place** in the Deecamp 2020, Sinovation Ventures and was lectured by 12 world-renowned AI experts including Andrew NG, Zhihua ZHOU and Kai-fu LEE. 
+
+* I won the **first place** in the 2020 Artificial Intelligence Application Innovation Competition, HUAWEI CLOUD. This project is about AI-based information management transformation and enterprise office services.
+
 # Research Interest
 
-Previously, I was working on text generation, question answering, and interpretability within machine learning.
+I have been working on text generation and question answering.
 
 I am developing machine learning tools and techniques of everyday cognitive abilities, focusing on problems that are easier for people than they are for machines. The human mind is the best-known solution to a diverse array of challenging computational problems: learning new concepts, learning new tasks, understanding scenes, learning a language, asking questions, forming explanations, amongst many others. Machines also struggle to simulate other facets of human intelligence, including creativity, curiosity, self-assessment, and commonsense reasoning. And I know it is my great happiness to contribute towards it and finding answers to the following question.
 
