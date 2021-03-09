@@ -31,9 +31,9 @@ Contact me: xarutang@gmail.com
 
 * I won the **first place** in the 2020 Artificial Intelligence Application Innovation Competition, HUAWEI CLOUD. This project is about AI-based information management transformation and enterprise office services.
 
-* National Scholarship, Ministry of Education of P.R.China.
+* National Scholarship, Ministry of Education.
 
-* MOE-Google Collaboration Fellowship, Ministry of Education of P.R.China and Google LLC.
+* MOE-Google Collaboration Fellowship, Ministry of Education and Google LLC.
 
 # Research Interest
 
