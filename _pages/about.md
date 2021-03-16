@@ -20,7 +20,7 @@ I am a graduate student at Yale University. I have worked at <!--[ML Group](http
 
 * Sinovation Ventures: We teamed up 11 award-winning authors with my model to write science fiction, support creativity, and empower humans, which was reported by People's Daily, Yahoo news, etc. 
  
-Contact me: xarutang@gmail.com
+Contact me: xarutang@gmail.com or xiangru.tang@yale.edu
 
 # Honor
 
