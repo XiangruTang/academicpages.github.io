@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a graduate student at Yale University. I have worked at <!--[ML Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) of -->Microsoft Research, Tencent, and Sinovation Ventures. I am fortunate to be advised by [Dr. Ming Zhou (ACL president)](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en) and [Prof. Dragomir R. Radev (ACM/AAAI Fellow)](https://cpsc.yale.edu/people/dragomir-radev). My research interest lies in various NLP problems in language generation and grounding that require effective understanding of contexts. 
+My research interest lies in various NLP problems in language generation and grounding that require effective understanding of contexts. 
 
  <!--and also a member of [Institute of Computing Technology](http://english.ict.cas.cn/) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS). advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately.--> I enjoyed my research internships and fantastic undergrad years at:
 
