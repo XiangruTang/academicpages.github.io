@@ -11,17 +11,12 @@ I’m a student at Yale University, advised by [Dragomir Radev](https://cpsc.yal
 
 My research interest lies in various problems in language generation and grounding that require effective understanding of contexts. More specifically, I am currently interested in building conversational natural language interfaces (NLIs) that can help humans explore and reason over data in any agents (e.g., relational databases and robots) in a robust and trusted manner. It involves studies in semantic parsing, dialogue systems, text summarization, and robotics. 
 
- <!--and also a member of [Institute of Computing Technology](http://english.ict.cas.cn/) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS). advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately.--> I enjoyed my research internships and fantastic undergrad years at:
-
-* Unique-Studio: We found the earliest and largest collegiate hackathon in China.
-
-
-* UC Berkeley: Mentor in the world's largest collegiate hackathon.
-
-* Chinese Academy of Sciences: Detecting COVID-19-related fake news in social media was awarded by our government and deployed into real practice to curb the pandemic.
-
-* Sinovation Ventures: We teamed up 11 award-winning authors with my model to write science fiction, support creativity, and empower humans, which was reported by People's Daily, Yahoo news, etc. 
+ <!--and also a member of [Institute of Computing Technology](http://english.ict.cas.cn/) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS). advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately.--> 
  
+I have been working at Sinovation Ventures, we teamed up 11 award-winning authors with my model to write science fiction, support creativity, and empower humans, which was reported by People’s Daily, Yahoo news, etc. Previously, I did research on efficient pretraining with the Machine Learning group at Microsoft Research Asia, advised by Guolin Ke; and retrieval-augmented generation at Tencent AI Lab, advised by Yan Wang. I was a guest student at the Chinese Academy of Sciences, my project on Detecting COVID-19-related fake news in social media was awarded by our government and deployed into real practice to curb the pandemic.
+
+I used to be involved with the hackathon community. I was a member of Unique-Studio, we found the earliest and largest collegiate hackathon in China. And I was a mentor in the world’s largest collegiate hackathon, CalHack at UC Berkeley.
+
 Contact me: xarutang@gmail.com or xiangru.tang@yale.edu
 
 # Honor
