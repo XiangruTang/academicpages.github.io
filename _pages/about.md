@@ -15,7 +15,7 @@ My research interest lies in various problems in language generation and groundi
  
 I have been working at Dr. Kai-Fu Lee's Sinovation Ventures. We teamed up 11 award-winning authors with my model to write science fiction, support creativity, and empower humans, which was reported by People’s Daily, Yahoo news, etc. Previously, I did research on efficient pretraining with the Machine Learning group at Microsoft Research Asia, advised by Guolin Ke; and retrieval-augmented generation at Tencent AI Lab, advised by Yan Wang. I was a guest student at the Chinese Academy of Sciences, my project on Detecting COVID-19-related fake news in social media was awarded by our government and deployed into real practice to curb the pandemic.
 
-I used to be involved with the hackathon community. I was a member of Unique-Studio, we found the earliest and largest collegiate hackathon in China. And I was a mentor in the world’s largest collegiate hackathon, CalHack at UC Berkeley.
+I used to be involved with the hackathon community. I was a member of Unique-Studio, we found the earliest and largest collegiate hackathon in China. And I was a mentor in the world’s largest collegiate hackathon, CalHacks at UC Berkeley.
 
 Contact me: xarutang@gmail.com or xiangru.tang@yale.edu
 
