@@ -39,9 +39,7 @@ Contact me: xarutang@gmail.com or xiangru.tang@yale.edu
 
 # Research Interest
 
-I have been working on text generation and question answering.
-
-I am developing machine learning tools and techniques of everyday cognitive abilities, focusing on problems that are easier for people than they are for machines. The human mind is the best-known solution to a diverse array of challenging computational problems: learning new concepts, learning new tasks, understanding scenes, learning a language, asking questions, forming explanations, amongst many others. Machines also struggle to simulate other facets of human intelligence, including creativity, curiosity, self-assessment, and commonsense reasoning. And I know it is my great happiness to contribute towards it and finding answers to the following question.
+I have been working on text generation. I'm developing machine learning tools and techniques of everyday cognitive abilities, focusing on problems that are easier for people than they are for machines. The human mind is the best-known solution to a diverse array of challenging computational problems: learning new concepts, learning new tasks, understanding scenes, learning a language, asking questions, forming explanations, amongst many others. Machines also struggle to simulate other facets of human intelligence, including creativity, curiosity, self-assessment, and commonsense reasoning. And I know it is my great happiness to contribute towards it and finding answers to the following question.
 
 * What are general mathematical models of perceiving, reasoning and learning?
 * How does intelligence emerge from a complicated structure?
