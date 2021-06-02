@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My research interest lies in various NLP problems in language generation and grounding that require effective understanding of contexts. 
+My research interest lies in various problems in language generation and grounding that require effective understanding of contexts. More specifically, I am currently interested in building conversational natural language interfaces (NLIs) that can help humans explore and reason over data in any agents (e.g., relational databases and robots) in a robust and trusted manner. It involves studies in semantic parsing, dialogue systems, text summarization, and robotics. 
 
  <!--and also a member of [Institute of Computing Technology](http://english.ict.cas.cn/) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS). advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately.--> I enjoyed my research internships and fantastic undergrad years at:
 
