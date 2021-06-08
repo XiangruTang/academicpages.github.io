@@ -19,7 +19,7 @@ I used to be involved with the hackathon community. I was a member of Unique-Stu
 
 "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living." -- Nelson Mandela. I'm now a board member of the Chinese Entrepreneurs Organization (CEO). I believe innovation is the key to entrepreneurship, while leadership affects the effectiveness and accuracy of innovation. 
 
-If you're interested in my research or CEO, please feel free to contact me: xiangru.tang@yale.edu
+If you're interested in my research or CEO, please feel free to contact me: xiangru.tang@yale.edu.
 
 # Honor
 
