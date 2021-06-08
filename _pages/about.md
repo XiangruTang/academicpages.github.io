@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a student at Yale University, advised by [Dragomir Radev](https://cpsc.yale.edu/people/dragomir-radev).
+I’m a graduate student at Yale University, advised by [Dragomir Radev](https://cpsc.yale.edu/people/dragomir-radev).
 
-My research interest lies in various problems in language generation and grounding that require effective understanding of contexts. More specifically, I am currently interested in building conversational natural language interfaces (NLIs) that can help humans explore and reason over data in any agents (e.g., relational databases and robots) in a robust and trusted manner. It involves studies in semantic parsing, dialogue systems, text summarization, and robotics. 
+My research interest lies in Artificial Intelligence, and especially various problems in language generation and grounding that require effective understanding of contexts. More specifically, I am currently interested in building conversational natural language interfaces (NLIs) that can help humans explore and reason over data in any agents (e.g., relational databases and robots) in a robust and trusted manner. It involves studies in semantic parsing, dialogue systems, text summarization, and robotics. 
 
  <!--and also a member of [Institute of Computing Technology](http://english.ict.cas.cn/) in [Chinese Academy of Sciences](https://en.wikipedia.org/wiki/University_of_the_Chinese_Academy_of_Sciences) (UCAS). advised by [Yanyan Lan](http://www.bigdatalab.ac.cn/~lanyanyan/) fortunately.--> 
  
@@ -17,7 +17,9 @@ I have been working at Dr. Kai-Fu Lee's Sinovation Ventures. We teamed up 11 awa
 
 I used to be involved with the hackathon community. I was a member of Unique-Studio, we found the earliest and largest collegiate hackathon in China. And I was a mentor in the world’s largest collegiate hackathon, CalHacks at UC Berkeley.
 
-Contact me: xarutang@gmail.com or xiangru.tang@yale.edu
+"There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living." -- Nelson Mandela. I'm now a board member of the Chinese Entrepreneurs Organization (CEO). I believe innovation is the key to entrepreneurship, while leadership affects the effectiveness and accuracy of innovation. 
+
+If you're interested in my research or CEO, please feel free to contact me: xiangru.tang@yale.edu
 
 # Honor
 
