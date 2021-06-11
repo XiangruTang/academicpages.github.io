@@ -9,7 +9,7 @@ redirect_from:
 ---
 I’m a graduate student at Yale University, advised by [Dragomir Radev](https://cpsc.yale.edu/people/dragomir-radev). I'm a member of [LILY (Yale NLP)](https://yale-lily.github.io/) lab. I work in the area of Natural Language Processing (NLP).
 
-My research interest lies in various problems in language generation and grounding that require an effective understanding of contexts. I'm currently working on building conversational natural language interfaces (NLIs) that can help humans explore and reason over data in any agents (e.g., relational databases and robots) in a robust and trusted manner. It involves studies in semantic parsing, dialogue systems, text summarization, and robotics. 
+My research interest lies in various problems in language generation and grounding that require an effective understanding of contexts. I'm currently working on building conversational natural language interfaces (NLIs) that can help humans explore and reason over data in a robust and trusted manner. It involves studies in semantic parsing, data-to-text generation, dialogue systems, text summarization, and robotics. 
 
 # Work Experience
 
