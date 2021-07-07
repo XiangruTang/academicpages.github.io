@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a graduate student at Yale University, advised by [Dragomir Radev](https://cpsc.yale.edu/people/dragomir-radev). I'm a member of [LILY (Yale NLP)](https://yale-lily.github.io/) lab. I work in the area of Natural Language Processing (NLP).
+I’m a graduate student at Yale University, advised by [Dragomir Radev](https://cpsc.yale.edu/people/dragomir-radev). I'm a member of [LILY (Yale NLP)](https://yale-lily.github.io/) lab. I work in the area of Natural Language Processing (NLP), Computational Biology and Drug Discovery. 
 
-My research interest lies in various problems in language generation and grounding that require an effective understanding of contexts. I'm currently working on building conversational natural language interfaces (NLIs) that can help humans explore and reason over data in a robust and trusted manner. It involves studies in semantic parsing, data-to-text generation, dialogue systems, text summarization, and robotics. 
+My research interest lies in various problems in language generation and grounding that require an effective understanding of contexts. And proteins, which can be represented as strings of amino-acid letters, are a natural fit to many NLP methods. 
 
 # Work Experience
 
@@ -17,9 +17,9 @@ I worked at [Dr. Kai-Fu Lee's Sinovation Ventures](https://www.sinovationventure
 
 I used to be involved with the hackathon community. I was a member of Unique-Studio, we found the earliest and largest collegiate hackathon in China. And I was a mentor in the world’s largest collegiate hackathon, CalHacks at UC Berkeley.
 
-"There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living." -- Nelson Mandela. I'm now a board member of the Chinese Entrepreneurs Organization (CEO) and found the Chinese Entrepreneurs Organization at Yale University. I believe innovation is the key to entrepreneurship, while leadership affects the effectiveness and accuracy of innovation. 
+"There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living." -- Nelson Mandela. I found the Chinese Entrepreneurs Organization at Yale University. I believe innovation is the key to entrepreneurship, while leadership affects the effectiveness and accuracy of innovation. 
 
-If you're interested in my research or CEO, please feel free to contact me: xiangru.tang@yale.edu.
+If you're interested in my research, please feel free to contact me: xiangru.tang@yale.edu.
 
 # Honor
 
@@ -36,16 +36,29 @@ If you're interested in my research or CEO, please feel free to contact me: xian
 
 # Research Interest
 
-I have been working on text generation. I'm developing machine learning tools and techniques of everyday cognitive abilities, focusing on problems that are easier for people than they are for machines. The human mind is the best-known solution to a diverse array of challenging computational problems: learning new concepts, learning new tasks, understanding scenes, learning a language, asking questions, forming explanations, amongst many others. Machines also struggle to simulate other facets of human intelligence, including creativity, curiosity, self-assessment, and commonsense reasoning. And I know it is my great happiness to contribute towards it and finding answers to the following question.
+I have been working on text generation, where a model generates realistic-looking text (e.g. article writing, data-to-text, summarization, abd chatbots). In my work, with robust and efficient pretrained language models, generated texts can be controlled to match user-defined styles, task-specific behaviour and other attributes.
+ 
+Language generation models can also be applied to synthetic protein design, which allows it to generate with fine-grained control by metrics based on primary sequence similarity, secondary structure accuracy, and conformational energy.
 
-* What are general mathematical models of perceiving, reasoning and learning?
-* How does intelligence emerge from a complicated structure?
-* What should the new paradigm of scientific research be in this AI era?
-* How do agents interact and cooperate to build things, interweave concepts and discover knowledge?
+And I know it is my great happiness to contribute towards it and finding answers to the following question:
+
+* How can AI offer a high level of precision to the complicated and time-consuming discovery phase in drug development, which leads to faster development timelines and a lower failure risk down the road? 
+
+* AI also gives researchers the power to analyze disparate datasets. For example, it can combine vast libraries of chemical compounds, biomedical data from the literature, and patient health data into knowledge graphs. This data model creates new connections and insights into previously unrelated information, 
+
+* How to analyze disparate datasets from the literature, patient health data and knowledge graphs? And how to can use them to make predictions, model novel pathways and disease states, and test findings? 
+
+* As people pay more attention to health and even use wearable devices for monitoring, more engagement in health management and personal health data will mean more valuable data for life sciences. How to access data in a safe way?
+ 
+I'm excited to see that there's something new in life sciences every day. I believe that AI will speed up new drug discovery and realize personalized healthcare. 
 
 
 <!--
 # Academic Experience
+* What are general mathematical models of perceiving, reasoning and learning?
+* How does intelligence emerge from a complicated structure?
+* What should the new paradigm of scientific research be in this AI era?
+* How do agents interact and cooperate to build things, interweave concepts and discover knowledge?
 
 * [Tencent AI LAB](https://ai.tencent.com/ailab/en/index): Research Intern
 * Research Collaboration: Working for Yale LILY Group, under Dr. Dragomir Radev
