@@ -50,7 +50,10 @@ And I know it is my great happiness to contribute towards it and finding answers
 
 * As people pay more attention to health and even use wearable devices for monitoring, more engagement in health management and personal health data will mean more valuable data for life sciences. How to access data in a safe way?
  
-I'm excited to see that there's something new in life sciences every day. I believe that AI will speed up new drug discovery and realize personalized healthcare. 
+
+I use computational and AI methods to tackle the unsolved problems in biology and healthcare, especially in the following areas: genomics, immunology, microbiome, protein folding, and molecular dynamics simulation.
+
+Good research builds useful tools or enlightens people about the unknown. I will build tools to process and model biological data; design models to tackle real-life healthcare problems; explore the uncharted area of life science with curiosity. I believe that AI will speed up new drug discovery and realize personalized healthcare. 
 
 
 <!--
