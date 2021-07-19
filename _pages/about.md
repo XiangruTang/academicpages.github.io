@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a graduate student at Yale University, advised by [Dragomir Radev](https://cpsc.yale.edu/people/dragomir-radev). I'm a member of [LILY (Yale NLP)](https://yale-lily.github.io/) lab. I work in the area of Natural Language Processing (NLP), Computational Biology and Drug Discovery. 
+I’m a graduate student at Yale University, advised by [Dragomir Radev](https://cpsc.yale.edu/people/dragomir-radev). I'm a member of [LILY (Yale NLP)](https://yale-lily.github.io/) lab. I work in the area of Natural Language Processing (NLP) and Computational Biology. 
 
 My research interest lies in various problems in language generation and grounding that require an effective understanding of contexts. And proteins, which can be represented as strings of amino-acid letters, are a natural fit to many NLP methods. 
 
 # Work Experience
 
-I worked at [Dr. Kai-Fu Lee's Sinovation Ventures](https://www.sinovationventures.com/) and we teamed up 11 award-winning authors with my model to write science fiction, support creativity, and empower humans, which was reported by People’s Daily, Yahoo news, etc. Previously, I did research on efficient pretraining with the Machine Learning group at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), advised by Guolin Ke; and retrieval-augmented generation at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), advised by Yan Wang. I was a guest student at [Chinese Academy of Sciences](https://english.cas.cn/about_us/), advised by Yanyan Lan, my project on detecting COVID-19-related fake news in social media was awarded by our government and deployed into real practice to curb the pandemic.
+I worked at [Dr. Kai-Fu Lee's Sinovation Ventures](https://www.sinovationventures.com/) and we teamed up 11 award-winning authors with my model to write science fiction, support creativity, and empower humans, which was reported by People’s Daily, Yahoo news, etc. Previously, I did research on efficient pretraining with the Machine Learning group at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), advised by Guolin Ke; and retrieval-augmented generation at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), advised by Yan Wang. I was a master's student at [Chinese Academy of Sciences](https://english.cas.cn/about_us/), advised by Yanyan Lan, my project on detecting COVID-19-related fake news in social media was awarded by our government and deployed into real practice to curb the pandemic.
 
 I used to be involved with the hackathon community. I was a member of Unique-Studio, we found the earliest and largest collegiate hackathon in China. And I was a mentor in the world’s largest collegiate hackathon, CalHacks at UC Berkeley.
 
